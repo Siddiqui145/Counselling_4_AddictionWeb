@@ -56,6 +56,19 @@ Counseling4Addiction/
 └── README.md          # Project documentation
 ```
 
+## Screenshots
+
+![Screenshot 2024-09-18 220418](https://github.com/user-attachments/assets/5360ce47-e1a4-41e0-8de5-8b1cb33a7acc)
+
+![Screenshot 2024-09-18 220424](https://github.com/user-attachments/assets/769de5f4-7bab-4db4-b7b1-de7dcf2548f8)
+
+![Screenshot 2024-09-18 220436](https://github.com/user-attachments/assets/454e5036-5afb-4bb0-84e0-9112462a4fac)
+
+![Screenshot 2024-09-18 220451](https://github.com/user-attachments/assets/eb901173-b461-43c1-a33f-6e6f74c50003)
+
+![Screenshot 2024-09-18 220459](https://github.com/user-attachments/assets/54483d0c-7d8d-4bee-89ca-273b386c00da)
+
+
 ## Future Improvements
 
 1. **Backend Integration:**
