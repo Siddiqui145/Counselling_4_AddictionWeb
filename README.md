@@ -90,7 +90,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Counseling4Addiction.git
+   git clone https://github.com/Siddiqui145/Counselling_4_AddictionWeb.git
    ```
 
 2. Open the project folder:
