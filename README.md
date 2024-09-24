@@ -95,7 +95,7 @@ To run the project locally, follow these steps:
 
 2. Open the project folder:
    ```bash
-   cd Counseling4Addiction
+   cd Counseling_4_AddictionWeb
    ```
 
 3. Open the `index.html` file in a browser:
